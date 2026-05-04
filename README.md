@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hello, I am Mik
+
+I am primarily a web-developer, but I also love working on C++ and Go.
+
+I can be found working late-nights on my own innovative projects, some of which I open-source. My latest obession is Local AI.
+
+Currently busy building warpdrv.ai. 
+Go, check it out - [warpdrv](https://warpdrv.ai).
 
 <!--
 **mikjee/mikjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
