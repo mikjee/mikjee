@@ -4,9 +4,9 @@
 
 Self-taught developer with 14+ years of experience in full-stack web development, AI infrastructure, and entrepreneurship.
 
-I dare to re-invent the wheel so I can enjoy the thrill of discovery. I can often be found working late-nights on my own innovative personal projects, some of which I open-source.
+I dare to re-invent the wheel so I can enjoy the thrill of discovery. 
 
-I commandeer a powerful & portable **AI Max 395+ 128GB** paired with a **RTX Pro 5000 48GB** - which is both my dev machine and my sidekick AI assistant.
+I can often be found working late-nights on my own innovative personal projects, some of which I open-source. I commandeer a powerful & portable **AI Max 395+ 128GB** paired with a **RTX Pro 5000 48GB** - which is both my dev machine and my sidekick AI assistant.
 
 - Currently busy building warpdrv.ai. Go, check it out - [warpdrv](https://warpdrv.ai).
 - AI: inference engines, data pipelines & workflows, **RAG / LoRA**.
