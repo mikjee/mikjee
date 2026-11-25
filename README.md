@@ -4,7 +4,7 @@
 
 Self-taught developer with 14+ years of experience in full-stack web development, AI infrastructure, and entrepreneurship.
 
-I dare to re-invent the wheel so I can enjoy the thrill of inventing it for myself, and the knowledge that comes with such a journey. I can often be found working late-nights on my own innovative personal projects, some of which I open-source.
+I dare to re-invent the wheel so I can enjoy the thrill of discovery and the knowledge that is gained with the journey. I can often be found working late-nights on my own innovative personal projects, some of which I open-source.
 
 I commandeer a powerful & portable **AI Max 395+ 128GB** paired with a **RTX Pro 5000 48GB** - which is both my dev machine and my sidekick AI assistant.
 
