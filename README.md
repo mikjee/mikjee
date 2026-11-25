@@ -1,23 +1,22 @@
-### Hello, I am Mik
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77333&width=435&lines=Hello%2C+I+am+Mik" alt="Typing SVG" /></a>
 
-I am primarily a web-developer, but I also love working on C++ and Go.
+### About Me
 
-I can be found working late-nights on my own innovative projects, some of which I open-source. My latest obession is Local AI.
+Self-taught developer with 14+ years of experience in full-stack web development, AI infrastructure, and entrepreneurship.
 
-Currently busy building warpdrv.ai. 
-Go, check it out - [warpdrv](https://warpdrv.ai).
+I dare to re-invent the wheel so I can enjoy the thrill of inventing it for myself, and the knowledge that comes with such a journey. I can often be found working late-nights on my own innovative personal projects, some of which I open-source.
 
-<!--
-**mikjee/mikjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I commandeer a powerful & portable **AI Max 395+ 128GB** paired with a **RTX Pro 5000 48GB** - which is both my dev machine and my sidekick AI assistant.
 
-Here are some ideas to get you started:
+- Currently busy building warpdrv.ai. Go, check it out - [warpdrv](https://warpdrv.ai).
+- AI: inference engines, data pipelines & workflows, **RAG / LoRA**.
+- Fullstack: **React**, **TypeScript**, **Node.js**, **Go**, Postgres, Mongo, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Core stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,cpp,c,python,go,nodejs,react,mongodb,postgres&theme=dark" alt="Languages and frameworks"></a>
+  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,vscode,git,github,docker,redis,html,scss,tailwind,wasm&theme=dark" alt="Tools and infrastructure"></a>
+</p>
